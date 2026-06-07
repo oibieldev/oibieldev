@@ -22,7 +22,7 @@ A results-driven **Software Engineer** focused on building high-performance, sca
 ## 🔥 Streak Active
 
 <div align="center">
-  <img height="180em" src="https://demolab.com" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=oibieldev" alt="GitHub Streak"/>
 </div>
   
 ---

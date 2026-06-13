@@ -9,15 +9,6 @@ A results-driven **Software Engineer** focused on building high-performance, sca
 - ✈️ **Goal:** Focused on relocation opportunities to Dublin, Ireland (*Critical Skills Employment Permit* path).
 
 ---
-
-## 📊 My Tech Stats
-
-<div align="center">
-  <a href="https://github.com">
-    <img height="180em" src="https://vercel.app" alt="Gabriel's GitHub Stats"/>
-    <img height="180em" src="https://vercel.app" alt="Top Languages"/>
-  </a>
-</div>
   
 ## 🔥 Streak Active
 
@@ -38,7 +29,3 @@ A results-driven **Software Engineer** focused on building high-performance, sca
   </a>
 </div>
   
-<p align="center"><br> 
-  Thank you for visiting my profile! Let's build something scalable together. 🚀<br>
-  <img src="https://glitch.me" alt="Visitor Counter" />
-</p>

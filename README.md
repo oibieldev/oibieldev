@@ -27,8 +27,8 @@ Based in Brazil and preparing for backend, integrations, application-support and
 ## 🔥 Streak Active
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=oibieldev&theme=java-dark&hide_border=true" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=oibieldev&show_icons=true&theme=codeSTACKr" alt="Github Stats"
+  <img height="170em" src="https://streak-stats.demolab.com?user=oibieldev&theme=java-dark&hide_border=true" alt="GitHub Streak"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=oibieldev&show_icons=true&theme=codeSTACKr" alt="Github Stats">
 </div>
 
   
